@@ -1,0 +1,8 @@
+[{
+    "id": "js_to_coffeescript",
+    "caption": "JS2CoffeeScript",
+    "children": [{
+        "caption": "Convert Selection or Document",
+        "command": "js_to_coffeescript"
+    }]
+}]
