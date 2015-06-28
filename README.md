@@ -1,4 +1,4 @@
-# JS2CoffeeScript for Sublime Text 3
+# JS2Coffee for Sublime Text 3
 Convert JavaScript to CoffeeScript without leaving Sublime Text 3.
 
 
