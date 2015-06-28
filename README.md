@@ -1,4 +1,4 @@
-# Sublime Text 3 JS2CoffeeScript
+# JS2CoffeeScript for Sublime Text 3
 Convert JavaScript to CoffeeScript without leaving Sublime Text 3.
 
 
@@ -12,4 +12,4 @@ Convert JavaScript to CoffeeScript without leaving Sublime Text 3.
 
 ## Usage
  
-Press `cmd-shift-p` and run `JS2CoffeeScript`.
+Press `cmd-shift-p` and run `JS2CoffeeScript`. Either the selected text or the active window will be converted.
