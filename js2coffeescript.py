@@ -16,7 +16,7 @@ class JsToCoffeescriptCommand(sublime_plugin.TextCommand):
             view.replace(edit, region, new_content)
 
     def js2coffee(self, contents):
-            indentation = 4
+            indentation = 2
             command = "js2coffee -i%d" % (indentation)
             js2coffee = subprocess.Popen(
                 command,
